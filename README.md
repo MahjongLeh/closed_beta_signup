@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://github.com/MahjongLeh/MahjongLeh">
-    <img src="assets/mahjongleh_title.png" alt="MahjongLeh logo" width="500" />
+    <img src="http://i.imgur.com/wtAvjZk.png" alt="MahjongLeh logo" width="500" />
   </a>
 </h3>
 

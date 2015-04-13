@@ -16,5 +16,6 @@
 
 ### Screenshots
 
-![Main Menu](http://i.imgur.com/DeVLi2x.jpg)
+![iPad](http://i.imgur.com/gSfot9v.jpg)
+![iPhone](http://i.imgur.com/VroW43g.jpg)
 ![In game](http://i.imgur.com/ecDrsGZ.jpg)
